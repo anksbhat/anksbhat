@@ -1,9 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on TinyML 
-- 🌱 I’m currently learning Machine learning and it's applications on edge devices
-- 👯 I’m looking to collaborate on Python and Machine Learning projects
-- 📫 How to reach me: ankithashridharbhat@gmail.com
-- 😄 Pronouns: she/her
+-  I’m currently working on TinyML 
+-  I’m currently learning Machine learning and it's applications on edge devices
+-  I’m looking to collaborate on Python and Machine Learning projects
+-  How to reach me: ankithashridharbhat@gmail.com
+-  Pronouns: she/her
 
 
 ## 🌐 Socials:
